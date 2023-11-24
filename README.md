@@ -38,4 +38,5 @@ Review the documentation for a detailed understanding of our approach, challenge
  ## **Tools and Technologies**
 AWS Services
 
-![image](https://github.com/Vaishnavi-Mandadi/Cloud-Computing-Project/assets/126366530/7d0bf0dd-0561-4d5c-ad13-ca434df2f81e)
+![image](https://github.com/Vaishnavi-Mandadi/Cloud-Computing-Project/assets/126366530/223f6527-461d-4669-9354-575ef6d2cfbb)
+
